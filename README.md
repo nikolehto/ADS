@@ -1,5 +1,5 @@
 # ADS
-algorithms and data structures exercise
+Algorithms and data structures exercise
 
 ADS Course work 
 Tasks:
