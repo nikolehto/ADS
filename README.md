@@ -22,6 +22,7 @@ Find Shortest Links : User is able to search shortest link between two ids, or b
 Tweets and hashtags : Search all tweets which contain specific hashtag, Print messages in defined time interval (and specific usr)
 
 Sample.json is subset of actual data. It contains tweets from 12.5.2014 to 4.12.2014
+it consists over 1 000 000 unique ids, and data of 146 users
 
 Known bugs:
 Program can't handle if user tries to find connection between 'a' and 'a' (if ids are same)
