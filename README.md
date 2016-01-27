@@ -17,7 +17,7 @@ How to use:
 2. Filename, for example 'sample'  
   
 Read data : Read another file  
-Data Info : Tells how many ids json file consists, what is greatest amount of connections, and how many users is in data(including messages)  
+Data Info : Tells how many ids json file consists, what is greatest amount of connections, and how many users is in data 
 Find Shortest Links : User is able to search shortest link between two ids, or between given hashtag and id. There is also random/test functionality implemented  
 Tweets and hashtags : Search all tweets which contain specific hashtag, Print messages in defined time interval (and specific usr)  
   
